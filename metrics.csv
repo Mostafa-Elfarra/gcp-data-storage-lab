@@ -1,0 +1,6 @@
+timestamp,metric_name,value
+2026-01-22T10:00:00Z,cpu_usage,65
+2026-01-22T10:01:00Z,memory_usage,512
+2026-01-22T10:02:00Z,disk_io,120
+2026-01-22T10:03:00Z,cpu_usage,70
+2026-01-22T10:04:00Z,memory_usage,520
