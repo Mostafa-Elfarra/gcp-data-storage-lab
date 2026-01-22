@@ -1,0 +1,20 @@
+[
+  {
+    "session_id": "s1",
+    "user": "Alice",
+    "status": "active",
+    "last_access": "2026-01-22T10:00:00Z"
+  },
+  {
+    "session_id": "s2",
+    "user": "Bob",
+    "status": "inactive",
+    "last_access": "2026-01-21T15:30:00Z"
+  },
+  {
+    "session_id": "s3",
+    "user": "Charlie",
+    "status": "active",
+    "last_access": "2026-01-22T09:45:00Z"
+  }
+]
